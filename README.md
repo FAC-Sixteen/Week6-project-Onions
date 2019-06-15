@@ -11,7 +11,7 @@
 SGC actions and opinions tracker! 
 Submit your opinions to actions discussed during SGC
 
-This project is hosted on Heroku : https://lost-and-founders.herokuapp.com/
+This project is hosted on Heroku : https://lost-and-fac.herokuapp.com/
 
 ## Built with:
 * html
